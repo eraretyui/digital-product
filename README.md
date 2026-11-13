@@ -83,7 +83,9 @@
 
 [![Открыть видеообзор прототипа](docs/media/video-cover.jpg)](https://github.com/eraretyui/digital-product/blob/main/docs/media/demo.mp4)
 
-[Смотреть видео на GitHub](https://github.com/eraretyui/digital-product/blob/main/docs/media/demo.mp4) · [Скачать MP4](https://raw.githubusercontent.com/eraretyui/digital-product/main/docs/media/demo.mp4)
+[Открыть файл видео на GitHub](https://github.com/eraretyui/digital-product/blob/main/docs/media/demo.mp4) · [Скачать MP4](https://raw.githubusercontent.com/eraretyui/digital-product/main/docs/media/demo.mp4)
+
+Если GitHub показывает только «View raw», воспользуйтесь ссылкой скачивания и откройте MP4 в видеоплеере.
 
 ## Откуда могут поступать данные
 
