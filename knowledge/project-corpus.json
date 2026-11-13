@@ -1,0 +1,56 @@
+[
+  {
+    "id": "public-rule-1",
+    "kind": "prototype-rule",
+    "verified": true,
+    "sourceId": "docs/business.md",
+    "revision": "public-v1",
+    "paragraph": 1,
+    "text": "Изменение рецептуры требует подтверждения технолога. Помощник готовит предложение; принятие создаёт новую редакцию, исходная редакция сохраняется."
+  },
+  {
+    "id": "public-rule-2",
+    "kind": "prototype-rule",
+    "verified": true,
+    "sourceId": "docs/business.md",
+    "revision": "public-v1",
+    "paragraph": 2,
+    "text": "Требования к продукту задают цели и критерии. Целевые значения, расчёты и фактические измерения хранятся отдельно. Требование не является измерением."
+  },
+  {
+    "id": "public-rule-3",
+    "kind": "prototype-rule",
+    "verified": true,
+    "sourceId": "docs/business.md",
+    "revision": "public-v1",
+    "paragraph": 3,
+    "text": "Неизвестные цены и пищевые показатели сохраняются как отсутствие данных. Неполные значения не заменяются нулями; расчёт сопровождается указанием полноты."
+  },
+  {
+    "id": "public-rule-4",
+    "kind": "prototype-rule",
+    "verified": true,
+    "sourceId": "docs/business.md",
+    "revision": "public-v1",
+    "paragraph": 4,
+    "text": "Структура визуальной модели определяется составом, фазами и технологическими операциями. Название, бренд и идентификатор продукта не определяют физические свойства."
+  },
+  {
+    "id": "public-rule-5",
+    "kind": "prototype-rule",
+    "verified": true,
+    "sourceId": "docs/business.md",
+    "revision": "public-v1",
+    "paragraph": 5,
+    "text": "План испытаний задаёт образцы, условия, методику и контрольные точки. Результаты вносятся после испытаний. План не подтверждает срок годности и безопасность."
+  },
+  {
+    "id": "public-rule-6",
+    "kind": "prototype-rule",
+    "verified": true,
+    "sourceId": "docs/business.md",
+    "revision": "public-v1",
+    "paragraph": 6,
+    "text": "Повторный импорт той же редакции не создаёт дубль. Новая редакция источника не должна уничтожать локальные производные варианты."
+  }
+]

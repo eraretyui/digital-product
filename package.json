@@ -1,0 +1,14 @@
+{
+  "name": "digital-product",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Система поддержки разработки пищевых рецептур",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
